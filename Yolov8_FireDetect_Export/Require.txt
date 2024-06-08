@@ -1,0 +1,7 @@
+pip install ultralytics
+pip install numpy
+pip install opencv-python
+pip install cvzone
+pip install torch
+
+Cần tải xuống các thư viện này xuống trước!

@@ -1,0 +1,13 @@
+train: D:\WorkSpace\Python\YoloV8_FireDetect\data\train\images
+val: D:\WorkSpace\Python\YoloV8_FireDetect\data\valid\images
+test: D:\WorkSpace\Python\YoloV8_FireDetect\data\test\images
+
+nc: 1
+names: ['fire']
+
+roboflow:
+  workspace: capstone-o404h
+  project: fire-6a0zr
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/capstone-o404h/fire-6a0zr/dataset/1
